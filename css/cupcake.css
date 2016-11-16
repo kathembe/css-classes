@@ -8,3 +8,10 @@
   font-style: oblique;
   font-size: 32px;s
 }
+.centre {
+     width: 80%;
+     background-color: #FAAAC2;
+}
+.one {
+  float: left;
+}
