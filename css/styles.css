@@ -1,0 +1,9 @@
+.serious {
+  color: red;
+  font-style:italic;
+}
+.intro {
+  color: blue;
+  font-style: oblique;
+  font-size: 32px;s
+}
