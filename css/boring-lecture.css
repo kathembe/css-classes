@@ -7,7 +7,19 @@
   align-items: center;
 }
 .awesome2{
-  font-family: 'Open Sans',Arial,sans-serif;
+  font-family:cursive;
   font-size: 16px;
+  text-align: center;
+}
+.attention{
+  color: red;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+.attention2{
+  color:green;
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 22px;
   text-align: center;
 }
